@@ -39,7 +39,6 @@ Param (
 #=======================================================================================#>
 <#PSScriptInfo
 .VERSION 3.00
-.GUID cc8fe6bd-2831-453e-bc16-bd5b3763471d
 .AUTHOR Kenneth C. Mazie (kcmjr AT kcmjr.com)
 .DESCRIPTION 
 Sets custom registry keys on all domain PCs.  This version only creates and populates with "-" as a default.
